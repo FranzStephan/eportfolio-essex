@@ -1,2 +1,3 @@
 # eportfolio-essex
-University of Essex coursework and artefacts – MSc Cybersecurity
+University of Essex coursework / Security and Risk Assessment Module
+
