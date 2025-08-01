@@ -7,7 +7,7 @@ This e-portfolio presents my work and reflections for the Security and Risk Mana
 ---
 
 ## Unit 1: Introduction to Security and Risk Management  
-Notes:  
+Notes:  Today on August 1. I finished the lecturecast, whoch was talking about the basics of risk assessment, difference between quantifying and qualifying risks, OCTAVE and common standards, for example ISO 27001.
 -  
 
 Reflection:  
