@@ -80,7 +80,10 @@ Actions:
 - Outline and initial matrices by Franz – 17 August
 - Methodology draft by Ketan – 20 August
 - Joint review session planned – 25 August
--  
+
+Notes: This unit focused on case studies, especially around GDPR and PCI-DSS, and highlighted how standards apply in real scenarios. We reviewed how organisations can mitigate risks and maintain compliance by aligning their practices with established frameworks. The examples showed the consequences of both compliance failures and effective implementation.
+
+Reflection: This unit helped me connect the theory of standards with practical business cases in a way that directly supported our group project. It shaped how I framed the Pampered Pets risk assessment, encouraging me to consider not only technical risks but also regulatory exposure. I also reflected on the importance of presenting risk findings clearly so that businesses can act on them in line with compliance needs. For my own contribution, I focused on expanding the methodology section and integrating references, which gave me a stronger appreciation of how ISO 31000 can be adapted for small businesses. Looking ahead, this unit reinforced the value of applying compliance standards flexibly so they can serve both regulatory and operational objectives.
 
 ---
 
