@@ -1,6 +1,9 @@
 # MSc Cybersecurity – e-Portfolio  
 Security and Risk Management Module  
 University of Essex Online
+Franz Stephan
+SID: 12697280
+Dt: 16. Oct. 2025
 
 This e-portfolio presents my work and reflections for the Security and Risk Management module. It includes brief weekly summaries, discussion points, group project contributions, and a final critical reflection. The entries are structured by unit and aligned with the intended learning outcomes. The notes are brief and have been noted after each unit, either on paper and then transmitted on to GitHub or written directly in here.
 
