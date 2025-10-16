@@ -88,81 +88,133 @@ Reflection: This unit helped me connect the theory of standards with practical b
 ---
 
 ## Unit 7: Quantitative Risk Modelling  
-Notes:  
+Notes:  This unit introduced the core ideas of quantitative risk modelling, including probability distributions, expected loss, and simulation techniques such as Monte Carlo. The focus was on how data can improve the precision of decision-making compared with purely qualitative assessments.
 -  
 
-Reflection:  
+Reflection:  Even without running full simulations myself, I understood how quantifying uncertainty gives clearer visibility of potential outcomes. The material showed that numbers are useful only when assumptions are sound and clearly documented. Quantitative methods can strengthen, not replace, professional judgment.
 -  
 
 ---
 
 ## Unit 8: Applying Quantitative Risk Models  
-Notes:  
+Notes:  The emphasis was on applying the models from Unit 7 to real situations. Case studies demonstrated sensitivity analysis and how model outputs support management choices.
 -  
 
-Reflection:  
+Reflection:  I learned how quantitative results can be communicated in plain language for decision-makers. The examples showed that clear visualisation and concise explanation often matter more than complex formulas. I gained a more practical sense of how evidence supports prioritisation of controls.
 -  
 
 ---
 
 ## Unit 9: Business Continuity and Disaster Recovery  
-Notes:  
+Notes:  This unit presented BC/DR concepts such as Business Impact Analysis, Recovery Time Objective (RTO), and Recovery Point Objective (RPO). It connected these to wider risk-management processes and regulatory expectations (e.g. ISO 22301).
 -  
 
-Reflection:  
+Reflection:  I found it interesting how resilience depends on both technology and planning. The case examples illustrated that small decisions—like backup frequency or staff training, can have major effects on recovery capability. I now see BC/DR as a continuous improvement activity rather than a one-off plan.
 -  
 
 ---
 
 ## Unit 10: Practical DR Design  
-Notes:  
+Notes:  The material compared hot, warm, and cold recovery sites, plus cloud-based and hybrid DR solutions. It also covered the trade-off between cost, complexity, and recovery speed.
 -  
 
-Reflection:  
+Reflection: This clarified how to set realistic targets instead of aiming for perfect recovery. I recognised that outsourcing resilience can create new dependencies, so multi-region or hybrid approaches may be safer. The unit reinforced the idea that documentation and periodic testing are critical.
 -  
 
 ---
 
 ## Unit 11: Future Trends in Security and Risk Management  
-Notes:  
+Notes: Topics included automation, zero-trust models, AI-driven risk analysis, and evolving regulations. The readings discussed how data analytics and continuous monitoring shape adaptive security.
 -  
 
-Reflection:  
+Reflection: I learned that technology will increasingly support risk management, but human oversight remains essential. Ethical governance, transparency, and accountability must evolve alongside automation. The trend toward continuous assessment fits well with quantitative modelling principles.
 -  
 
 ---
 
 ## Unit 12: The Great Debate  
-Notes:  
+Notes:  The final unit summarised emerging trends and asked which will most influence risk management over the next five years. Discussions revolved around AI, quantum-safe cryptography, and regulatory harmonisation.
 -  
 
-Reflection:  
+Reflection:  I concluded that AI-supported automation, combined with human control, will likely have the greatest impact. It connects threat detection, response, and governance in one cycle. This view summarises my overall learning: integrate data and technology responsibly, without losing human judgment.
 -  
 
 ---
 
 ## Group Project  
-Project title:  
--  
+Project title:  Pampered Pets Risk Assessment and Digitalisation Strategy
+-  The project focused on evaluating the potential risks and benefits of digitalising a small retail business. Using the ISO 31000 framework, our team assessed threats, vulnerabilities, and mitigations for both the existing in-store model and a digitalised version of Pampered Pets.
 
 My role:  
+
+Drafted the initial outline of the report and developed the first version of the risk matrices for both the current and proposed business models.
+
+Took part in selecting and justifying ISO 31000 as the most suitable framework for a small enterprise context.
+
+Contributed short notes on digitalisation-related risks such as supplier dependency and data protection.
+
+Reviewed the final report before submission to ensure structure and consistency.
 -  
 
-Individual contributions:  
+Individual contributions: 
+
+Created the basic report layout with clear sections for methodology, assessment, and recommendations.
+
+Compared ISO 31000 with other options such as NIST SP 800-30 and OCTAVE.
+
+Helped define qualitative likelihood and impact scales for the risk matrix.
+
+Participated in refining the summary and recommendations section after team review.
 -  
 
-Challenges encountered:  
+Challenges encountered:
+
+Coordinating work across time zones and combining different writing styles was difficult.
+
+Condensing complex content into short, clear points required discipline and communication.
+
+Limited live meetings made it necessary to rely on written updates and recordings.
 -  
 
-Lessons learned:  
+Lessons learned: 
+
+Applying theoretical frameworks to a realistic business case strengthened my practical understanding of risk assessment.
+
+I learned how teamwork improves clarity through multiple perspectives.
+
+The experience improved my ability to structure reports, prioritise key risks, and communicate findings effectively.
 -  
 
 ---
 
 ## Final Reflective Piece  
-To be completed at the end of the module. This section will include a 1,000-word reflective summary on individual learning, team collaboration, module content, and personal development.
+Across this module my understanding of security and risk management developed from theory to practice. The early units established key concepts such as threats, vulnerabilities, and the structure of risk management frameworks. Later units introduced quantitative risk modelling, business continuity, and disaster recovery, which connected technical knowledge to operational resilience.
+
+Working on the Pampered Pets project helped me translate theory into a practical group assignment. Drafting the outline and developing the risk matrices improved my ability to organise material and link academic models to business decisions. Collaborating remotely taught me to communicate clearly and adapt to different work styles.
+
+Even though I could not attend every live seminar, I kept up through recordings and readings. This method allowed me to learn at my own pace and reflect more deeply on how each topic connected to the overall theme of resilience and governance.
+
+The final trend discussions on automation, AI, and ethics encouraged me to think about the future of risk management. I now see that technical precision must be combined with human oversight and clear accountability.
+
+Overall, this module strengthened both my technical awareness and professional skills. I feel confident in analysing risks systematically, presenting them clearly, and applying continuous improvement in real-world contexts.
 
 ---
 
-## Skills Matrix (to be completed)  
-This section will contain a short overview of professional and academic skills developed throughout the module. It may include observations on time management, communication, technical tools, collaboration, critical thinking, and analytical skills. Entries will be completed as part of the final review.
+## Professional Skills Overview
+Communication
+I became better at expressing complex risk management ideas in plain language that non-technical readers can understand. Writing reflections and contributing to the group report improved my ability to present structured and concise information.
+
+Teamwork
+Working remotely with different personalities helped me develop clearer coordination and more patience when combining work from several sources. I learned how to communicate expectations and provide constructive feedback.
+
+Critical Thinking
+Comparing frameworks such as ISO 31000, NIST SP 800-30, and OCTAVE strengthened my analytical judgment. I learned to justify methodological choices instead of copying examples blindly.
+
+Technical Understanding
+Through the module I gained familiarity with practical aspects of risk assessment, business continuity, and disaster recovery. I now understand how theoretical principles translate into small-business environments.
+
+Time Management
+Balancing readings, project coordination, and written reflections required planning. I learned to prioritise tasks and to work efficiently within limited timeframes.
+
+Reflective Practice
+Writing regular notes and reflections made me more aware of how I learn best. It also helped me recognise progress and identify areas that need improvement for future modules.
